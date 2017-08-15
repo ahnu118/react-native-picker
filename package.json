@@ -1,15 +1,19 @@
 {
-  "name": "react-native-picker",
+  "name": "@ahnu118/react-native-picker",
   "version": "4.0.19",
   "description": "",
   "main": "index.js",
   "types": "index.d.ts",
+  "author": {
+        "name": "ahnu118",
+        "email": "596090355@qq.com"
+   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:beefe/react-native-picker.git"
+    "url": "git@//github.com/ahnu118/react-native-picker.git"
   },
   "author": "zooble",
   "license": "MIT"
