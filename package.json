@@ -1,7 +1,7 @@
 {
   "name": "@ahnu118/react-native-picker",
-  "version": "4.0.19",
-  "description": "picker area for ios and androids”,
+  "version": "4.0.6",
+  "description": "picker area for ios and androids",
   "main": "index.js",
   "types": "index.d.ts",
   "author": {
@@ -11,7 +11,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "homepage":"https://github.com/ahnu118/react-native-picker"
+  "homepage":"https://github.com/ahnu118/react-native-picker",
   "repository": {
     "type": "git",
     "url": "git@//github.com/ahnu118/react-native-picker.git"
