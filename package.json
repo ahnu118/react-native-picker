@@ -1,7 +1,7 @@
 {
   "name": "@ahnu118/react-native-picker",
   "version": "4.0.19",
-  "description": "picker area for ios and android",
+  "description": "picker area for ios and androids”,
   "main": "index.js",
   "types": "index.d.ts",
   "author": {
